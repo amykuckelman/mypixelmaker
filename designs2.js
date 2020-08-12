@@ -28,4 +28,4 @@ sizePicker.addEventListener('submit', function(event) {
     makeGrid(heightChoice, widthChoice);
 });
 //this code was built using the lessons learned in Udacitys
-//"Intro to Programming Nanodegree Program".
+//"Intro to Programming Nanodegree Program" and information from www.w3schools.com
